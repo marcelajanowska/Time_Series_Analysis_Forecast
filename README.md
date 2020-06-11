@@ -15,15 +15,15 @@ The dataset ma_lga_12345.csv. It is the sales data of houses and flats in quarte
 
 ## 3. Libraries
 - Arima and Sarimax: 
-numpy 
-pandas
-statsmodels
+numpy, 
+pandas,
+statsmodels,
 pmdarima
 
 - RNN: to be added
 - Prophet: to be added
 
 ## 4. Models
-The development of the ARMA, ARIMA model: differencing, checking for non-stationary data, auto-correlation, partial auto-correlation, seasonality, forecasting
-Development of sequence RNN models: to be added
-Development of forecasting with FB Prophet library: to be added
+- The development of the ARMA, ARIMA model: differencing, checking for non-stationary data, auto-correlation, partial auto-correlation, seasonality, forecasting
+- Development of sequence RNN models: to be added
+- Development of forecasting with FB Prophet library: to be added
