@@ -20,7 +20,12 @@ pandas,
 statsmodels,
 pmdarima
 
-- RNN: to be added
+- RNN:
+numpy,
+pandas,
+keras,
+statsmodels
+
 - Prophet: to be added
 
 ## 4. Models
